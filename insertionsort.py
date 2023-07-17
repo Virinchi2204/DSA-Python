@@ -11,3 +11,4 @@ numbers = list(map(int, input_str.split()))
 insertion_sort(numbers)
 print("Sorted list:", numbers)
 
+# time complexity : Best(O(n)), Average(O(n^2)), Worst(O(n^2))
