@@ -12,3 +12,5 @@ input_str = input("Enter an array: ")
 array = list(map(int, input_str.split()))
 bubble_sort(array)
 print(array)
+
+#TimeComplexity : O(n^2)
